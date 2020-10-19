@@ -1,10 +1,10 @@
-## Most Popular Hosting Provider
+## The Most Popular Hosting Providers
 - [Blue host](https://www.bluehost.com/)
 - [Go daddy](https://godaddy.com/)
 - [a2hosting](https://www.a2hosting.com/)
 - [fast comet](https://www.fastcomet.com/)
 
-## Most Popular Cloud Provider 
+## The Most Popular Cloud Providers
 - [Amazon "Aws"](https://aws.amazon.com/)
 - [Microsoft  "Azure"](https://azure.microsoft.com/en-us/)
 - [Google "google cloud" ](https://cloud.google.com/)
@@ -13,7 +13,7 @@
 - [linode](https://www.linode.com/)
 
 
-## Most Popular Domain Registrar
+## The Most Popular Domain Registrars
 - [domain](https://www.domain.com/domains)
 - [Blue host](https://www.bluehost.com/domains)
 - [host gator](https://www.hostgator.com/domains)
@@ -21,7 +21,7 @@
 - [freenom](https://www.freenom.com/en/index.html?lang=en)
 
 
-## Most Popular Web Hosting Control Panel
+## The Most Popular Web Hosting Control Panels
 - [cPanel](https://www.cpanel.net/)
 - [Plesk](https://www.plesk.com/)
 - [Direct Admin](https://www.directadmin.com/)
