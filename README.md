@@ -12,8 +12,6 @@
 
 # Menu
 
-- [Learning outcomes
-]()
 - [App to Hosting]()
 - [Resources]()
 
