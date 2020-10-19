@@ -10,12 +10,27 @@
 - [Google "google cloud" ](https://cloud.google.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [ibm](https://www.ibm.com/uk-en/cloud)
+- [linode](https://www.linode.com/)
 
 
+## Most Popular Domain Registrar
+- [domain](https://www.domain.com/domains)
+- [Blue host](https://www.bluehost.com/domains)
+- [host gator](https://www.hostgator.com/domains)
+- [Go daddy](https://godaddy.com/domains/domain-name-search)
+- [freenom](https://www.freenom.com/en/index.html?lang=en)
+
+
+## Most Popular Web Hosting Control Panel
+- [cPanel](https://www.cpanel.net/)
+- [Plesk](https://www.plesk.com/)
+- [Direct Admin](https://www.directadmin.com/)
+- [cyberpanel](https://cyberpanel.net/)
 
 ## Articles
 
 - [The 6 Best Types of Web Hosting to Consider in 2020](https://www.quicksprout.com/types-of-web-hosting/)
 - [Popular Types of Web Hosting Services](https://www.thebalancesmb.com/types-of-web-hosting-services-2532072)
 - [8 Awesome Web Hosting Control Panel and Server Management Software](https://geekflare.com/server-management-tools/)
--[6 Best Cloud Service Providers to Watch Out for in 2020](https://www.ewaycorp.com/blog/best-cloud-service-providers-2020)
+- [7 top hosting control panels](https://cloud7.news/hosting/hosting-control-panels/)
+- [Top 25 Cloud Computing Service Provider Companies 2020](https://www.guru99.com/cloud-computing-service-provider.html)
