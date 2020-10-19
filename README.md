@@ -13,7 +13,7 @@
 # Menu
 
 - [App to Hosting]()
-- [Resources]()
+- [Resources](https://github.com/YakoobHammouri/GSG-hosting-node-js-workshop/blob/main/Resources.md)
 
 # Schedule
 ### Day 1
@@ -22,10 +22,7 @@
 
 — BREAK —
 - 1:00 - 4:00
-[Setup Digital Ocean]()
+[Setup Digital Ocean](https://github.com/YakoobHammouri/GSG-hosting-node-js-workshop/blob/main/SetupDigitalOcean.md)
 
 ### Day 2
 - Hosting in Plesk Control panle
-
-
-
