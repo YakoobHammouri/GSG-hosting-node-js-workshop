@@ -32,7 +32,12 @@ notes: this password for root user and  using to login to Dropte by SSH
 8. Finalize and create
 
 9. after Droplet Created coye IP Address then open terminal to login to Droplet by SSH
-10. in terminal type `ssh root@DropletIP` then enter your password
+
+
+![](https://i.imgur.com/Ybz3mYQ.jpg)
+
+
+11. in terminal type `ssh root@DropletIP` then enter your password
 
  <img src="https://i.imgur.com/7XiiKde.jpg" width="600" height="300">
 
