@@ -39,6 +39,4 @@ notes: this password for root user and  using to login to Dropte by SSH
 
 11. in terminal type `ssh root@DropletIP` then enter your password
 
- <img src="https://i.imgur.com/7XiiKde.jpg" width="600" height="300">
-
-
+![](https://i.imgur.com/FDtbXTf.jpg)
