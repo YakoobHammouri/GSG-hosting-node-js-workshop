@@ -40,3 +40,19 @@ notes: this password for root user and  using to login to Dropte by SSH
 11. in terminal type `ssh root@DropletIP` then enter your password
 
 ![](https://i.imgur.com/FDtbXTf.jpg)
+
+
+12. run `sudo plesk login` command, the command generate URL to create Plesk control panel
+
+![](https://i.imgur.com/nyiaooF.jpg)
+
+
+13. copy the URL then useing in browser , you will get this page  to create your plesk panel
+
+```
+I Prefer to enter Gmail, where you can enable login 
+by google authentication after created a panel,
+also you can use Facebook or GitHub Email to log in 
+```
+![](https://i.imgur.com/z0qXKQv.jpg)
+ 
