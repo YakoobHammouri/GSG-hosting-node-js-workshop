@@ -1,4 +1,3 @@
-
 # Setup Digital Ocean
 ### [Digital Ocean Site](https://www.digitalocean.com/)
 
@@ -14,7 +13,20 @@ It is a unique cloud hosting provider that offers cloud computing services to bu
 
 
 # Setup Digital Ocean
-1- [Registrations](https://cloud.digitalocean.com/registrations/new)
-2- Open your dashBoard to [Create Droplets](https://www.digitalocean.com/docs/droplets/how-to/create/)
-3- at Choose an image Step , choose [marketplace](https://www.digitalocean.com/docs/marketplace/)
-4- in marketplace search about `plesk` and be sure to choose Plesk on Ubuntu 
+1. [Registrations](https://cloud.digitalocean.com/registrations/new)
+2. Open your dashBoard to [Create Droplets](https://www.digitalocean.com/docs/droplets/how-to/create/)
+3. at image Step , choose [marketplace](https://www.digitalocean.com/docs/marketplace/)
+4. in marketplace search about `plesk` and be sure to choose Plesk on Ubuntu
+5. at plan Step , choose Basic pLan then choose fisrt plan `5$/mo`
+
+
+<img src="https://i.imgur.com/cxkRMXg.png" width="600" height="400">
+
+
+6. at datacenter region choose anyone you want
+7. at Authentication you can chooes SSH Key or Password , we will choose Password option , then enter your password 
+```
+notes: this password for root user and  using to login to Dropte by SSH
+
+```
+8. Finalize and create
