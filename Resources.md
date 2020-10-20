@@ -34,3 +34,4 @@
 - [8 Awesome Web Hosting Control Panel and Server Management Software](https://geekflare.com/server-management-tools/)
 - [7 top hosting control panels](https://cloud7.news/hosting/hosting-control-panels/)
 - [Top 25 Cloud Computing Service Provider Companies 2020](https://www.guru99.com/cloud-computing-service-provider.html)
+- [DNS Records](https://www.cloudflare.com/learning/dns/dns-records/)
