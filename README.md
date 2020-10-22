@@ -11,7 +11,7 @@
 
 
 
-# Schedule
+### Schedule
 ### Day 1
 - 9:00 - 12:00 
 [Hosting Overview](https://docs.google.com/presentation/d/1Z4oWdHEXjKVxzwnjjbaMHAAl1WLQ_1tEZQyv3MsU2gY/edit#slide=id.ga1c93baa73_2_82)
