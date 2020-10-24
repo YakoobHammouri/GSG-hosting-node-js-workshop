@@ -41,18 +41,19 @@ Notes: This password is for root user and will be used to login to Droplet by SS
 <img src="https://i.imgur.com/Ybz3mYQ.jpg" width="400">.
 
 
-11. In your terminal type `ssh root@DropletIP` then enter your password.
+10. In your terminal type `ssh root@DropletIP` then enter your password.
 
 
 <img src="https://i.imgur.com/FDtbXTf.jpg" width="400">.
 
 
-12. run `sudo plesk login` command. This command will generate an URL to create Plesk control panel
+11. run `sudo plesk login` command. This command will generate an URL to create Plesk control panel
 
 
-<img src="https://i.imgur.com/nyiaooF.jpg" width="400">.
+<img src="https://i.imgur.com/nyiaooF.jpg" width="400">
 
-13. Copy the last given URL then paste it into your browser, you will get this page to create your plesk Cpanel.
+
+12. Copy the last given URL then paste it into your browser, you will get this page to create your plesk Cpanel.
 
 ```
 I Prefer registering using Gmail, where you can enable login by google authentication after creating your panel,
