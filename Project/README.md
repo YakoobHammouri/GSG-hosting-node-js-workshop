@@ -6,7 +6,7 @@ is a simple App for hosting, build in LoopBack 4 as back-end, and Next Js As fro
 LoopBack4 is a highly extensible, open-source Node. js and TypeScript framework based on Express that enables you to quickly create APIs and microservices composed from backend systems such as databases and REST services "API".
 
 
-### waht is [NextJs](https://nextjs.org/)
+### what is [NextJs](https://nextjs.org/)
 Next.js is a special JavaScript framework to build a modern React applications with a server-side rendering. based on that main feature it makes our life much easier by reducing page loading time and by having page-based routing system, not to mention its positive impact on SEO ranking.
 
 ### How To Run
