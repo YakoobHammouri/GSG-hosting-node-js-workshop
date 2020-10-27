@@ -28,8 +28,8 @@
 - [cyberpanel](https://cyberpanel.net/)
 
 ## FTP Application
-[FileZilla Client for Windows 64bit](https://filezilla-project.org/download.php?platform=win64)
-[FileZilla Client for Linux (64bit)](https://filezilla-project.org/download.php?platform=linux64)
+- [FileZilla Client for Windows 64bit](https://filezilla-project.org/download.php?platform=win64)
+- [FileZilla Client for Linux (64bit)](https://filezilla-project.org/download.php?platform=linux64)
 
 ## Articles
 
