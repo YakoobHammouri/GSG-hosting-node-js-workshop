@@ -21,14 +21,15 @@ Next.js is a special JavaScript framework to build a modern React applications w
    connector=postgresql
    url=postgres://username:password@localhost:port/database
    ```
-2. open terminal then change directory to `api` folder to run this Command
+2. open terminal then change directory to `Project/api` folder to run this Command
     - npm i
     - npm run build
     - npm run migrate
     - npm start
     ```
-    to test the server you can  open browser then using this
-    url http://127.0.0.1:4000/explorer/
+    to test if the server is running you can open browser then use the url provided in your terminal or 
+    try this url
+    http://127.0.0.1:4000/explorer/
     ```
 3. open new terminal Tab then change directory to `client` folder to this Command
     - npm i
