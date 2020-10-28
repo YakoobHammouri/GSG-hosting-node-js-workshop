@@ -13,7 +13,8 @@ Next.js is a special JavaScript framework to build a modern React applications w
 1. create DB and Add the url to your `.env` file
      - create the database 
      - inside the api folder create a .env file 
-     - add the PORT , name , connector ,and url as shown in `.env.example` file
+     - add the PORT , name , connector ,and url as shown in the `.env.example` file.
+     for example :
    ``` 
    PORT=4000
    name=todo
