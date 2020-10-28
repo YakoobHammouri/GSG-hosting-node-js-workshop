@@ -24,8 +24,8 @@ Next.js is a special JavaScript framework to build a modern React applications w
    ```
 2. open terminal then change directory to `Project/api` folder to run this Command
     - npm i
-    - npm run build
-    - npm run migrate
+    - npm run build ```   to compile TypeScript Fiels ```
+    - npm run migrate ``` to create database schema (Tables) ```
     - npm start
     ```
     to test if the server is running you can open browser then use the url provided in your terminal or 
