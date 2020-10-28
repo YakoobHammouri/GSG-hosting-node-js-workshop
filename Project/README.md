@@ -10,7 +10,7 @@ LoopBack4 is a highly extensible, open-source Node.js and TypeScript framework b
 Next.js is a special JavaScript framework to build a modern React applications with a server-side rendering. based on that main feature it makes our life much easier by reducing page loading time and by having page-based routing system, not to mention its positive impact on SEO ranking.
 
 ### How To Run
-1. create DB and Add Link in .env
+1. create DB and Add the url to the .env file
    ``` 
    url=postgres://username:password@localhost:port/database
    ```
@@ -20,7 +20,7 @@ Next.js is a special JavaScript framework to build a modern React applications w
     - npm run migrate
     - npm start
     ```
-    to check server you can  open browser then using this
+    to test the server you can  open browser then using this
     url http://127.0.0.1:4000/explorer/
     ```
 3. open new terminal Tab then change directory to `client` folder to this Command
@@ -28,6 +28,6 @@ Next.js is a special JavaScript framework to build a modern React applications w
     - npm run build
     - npm start
     ```
-    to check client you can  open browser then using this
+    to test the client you can  open browser then using this
     url http://127.0.0.1:3000
     ```
