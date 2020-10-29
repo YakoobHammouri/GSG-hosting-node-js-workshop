@@ -39,3 +39,7 @@
 - [7 top hosting control panels](https://cloud7.news/hosting/hosting-control-panels/)
 - [Top 25 Cloud Computing Service Provider Companies 2020](https://www.guru99.com/cloud-computing-service-provider.html)
 - [DNS Records](https://www.cloudflare.com/learning/dns/dns-records/)
+
+
+
+https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars#:~:text=Under%20DOMAIN%20NAME%20SYSTEM%20SERVERS,ns3.digitalocean.com
