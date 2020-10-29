@@ -37,7 +37,7 @@ Next.js is a special JavaScript framework to build a modern React applications w
     - npm run build
     - npm start
     
-######    to run the client you can  open browser then using this url
+######    to run the client you can  open browser and use this url
 
 ```
     http://127.0.0.1:3000    
