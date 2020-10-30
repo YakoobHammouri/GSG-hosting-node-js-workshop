@@ -63,7 +63,13 @@ export default function Home() {
   // console.log('Tak in effeact : ', task);
   useEffect(() => {
     NProgress.start();
+    getAllTask();
+  }, []);
+  const handellLoading = (loading: boolean) => {
+    setIsLoading(loading);
+  };
 
+  const getAllTask = () => {
     API('GET', 'todos')
       .then((res) => {
         setAllTask(res.data as Array<TaskType>);
@@ -72,9 +78,6 @@ export default function Home() {
       .catch((err) => {
         console.log('Error in Get Data from Server : ', { ...err });
       });
-  }, []);
-  const handellLoading = (loading: boolean) => {
-    setIsLoading(loading);
   };
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -94,12 +97,7 @@ export default function Home() {
 
     API('DELETE', 'todos/' + id)
       .then((res) => {
-        const task = [...allTask];
-        task.splice(
-          task.findIndex((x) => x.id === id),
-          1
-        );
-        setAllTask(task);
+        getAllTask();
       })
       .catch((err) => {
         console.log('Error in delete  Task : ', { ...err });
@@ -114,13 +112,7 @@ export default function Home() {
     putTak.isDone = e.target.checked;
     API('PUT', 'todos/' + taskData.id, putTak, 'application/json')
       .then((res) => {
-        const task = [...allTask];
-        task.splice(
-          task.findIndex((x) => x.id === taskData.id),
-          1,
-          putTak
-        );
-        setAllTask(task);
+        getAllTask();
       })
       .catch((err) => {
         console.log('Error in Put  Task : ', { ...err });
@@ -144,18 +136,7 @@ export default function Home() {
     )
       .then((res) => {
         console.log('Res :', res);
-        if (isEdit) {
-          const task = [...allTask];
-          task.splice(
-            task.findIndex((x) => x.id === taskData.id),
-            1,
-            taskData
-          );
-          setAllTask(task);
-          SetIsEdit(false);
-        } else {
-          setAllTask([taskData, ...allTask]);
-        }
+        getAllTask();
       })
       .catch((err) => {
         console.log('Error in Add  Task : ', { ...err });
