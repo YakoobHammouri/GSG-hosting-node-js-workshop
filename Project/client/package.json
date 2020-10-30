@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "start2": "node server.js",
-    "heroku-postbuild": "npm run build",
-    "pm2": "pm2 start npm -- start",
+    "pmstart": "pm2 start npm -- start",
     "kill": "pm2 kill",
     "list": "pm2 list"
   },

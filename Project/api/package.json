@@ -31,7 +31,10 @@
     "openapi-spec": "node ./dist/openapi-spec",
     "prestart": "npm run build",
     "start": "node -r source-map-support/register .",
-    "clean": "lb-clean dist *.tsbuildinfo .eslintcache"
+    "clean": "lb-clean dist *.tsbuildinfo .eslintcache",
+    "pmstart" : "pm2 start npm -- start",
+    "kill": "pm2 kill",
+    "list": "pm2 list"
   },
   "repository": {
     "type": "git"
@@ -54,7 +57,9 @@
     "dotenv": "^8.2.0",
     "loopback-connector-mysql": "^5.4.4",
     "loopback-connector-postgresql": "^5.2.0",
-    "tslib": "^2.0.0"
+    "pm2": "^4.5.0",
+    "tslib": "^2.0.0",
+    "typescript": "~4.0.3"
   },
   "devDependencies": {
     "@loopback/build": "^6.2.5",
@@ -62,7 +67,6 @@
     "@loopback/testlab": "^3.2.7",
     "@types/node": "^10.17.37",
     "@loopback/eslint-config": "^10.0.1",
-    "eslint": "^7.10.0",
-    "typescript": "~4.0.3"
+    "eslint": "^7.10.0"
   }
 }
