@@ -28,6 +28,6 @@
 
 ---
 
- - [Project]() 
+ - [Project](https://github.com/YakoobHammouri/GSG-hosting-node-js-workshop/tree/main/Project) 
  - [Resources](https://github.com/YakoobHammouri/GSG-hosting-node-js-workshop/blob/main/Resources.md)
 

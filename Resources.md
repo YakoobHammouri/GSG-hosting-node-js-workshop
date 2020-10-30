@@ -27,6 +27,10 @@
 - [Direct Admin](https://www.directadmin.com/)
 - [cyberpanel](https://cyberpanel.net/)
 
+## FTP Application
+- [FileZilla Client for Windows 64bit](https://filezilla-project.org/download.php?platform=win64)
+- [FileZilla Client for Linux (64bit)](https://filezilla-project.org/download.php?platform=linux64)
+
 ## Articles
 
 - [The 6 Best Types of Web Hosting to Consider in 2020](https://www.quicksprout.com/types-of-web-hosting/)
@@ -35,3 +39,7 @@
 - [7 top hosting control panels](https://cloud7.news/hosting/hosting-control-panels/)
 - [Top 25 Cloud Computing Service Provider Companies 2020](https://www.guru99.com/cloud-computing-service-provider.html)
 - [DNS Records](https://www.cloudflare.com/learning/dns/dns-records/)
+
+
+
+https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars#:~:text=Under%20DOMAIN%20NAME%20SYSTEM%20SERVERS,ns3.digitalocean.com
