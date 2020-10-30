@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "start2": "node server.js",
     "pmstart": "pm2 start npm -- start",
     "kill": "pm2 kill",
     "list": "pm2 list"

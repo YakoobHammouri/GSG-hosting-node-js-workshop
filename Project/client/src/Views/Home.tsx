@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function Home({ task }: { task: Array<TaskType> }) {
+export default function Home() {
   const classes = useStyles();
 
   const [open, setOpen] = React.useState(false);
@@ -62,13 +62,16 @@ export default function Home({ task }: { task: Array<TaskType> }) {
   };
   // console.log('Tak in effeact : ', task);
   useEffect(() => {
-    // NProgress.start();
+    NProgress.start();
 
-    setAllTask(task);
-
-    // setTimeout(() => {
-    //   NProgress.done();
-    // }, 400);
+    API('GET', 'todos')
+      .then((res) => {
+        setAllTask(res.data as Array<TaskType>);
+        NProgress.done();
+      })
+      .catch((err) => {
+        console.log('Error in Get Data from Server : ', { ...err });
+      });
   }, []);
   const handellLoading = (loading: boolean) => {
     setIsLoading(loading);
