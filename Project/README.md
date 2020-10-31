@@ -34,7 +34,7 @@ This is a simple App for hosting, build using **LoopBack 4** for back-end, and *
 3. open new terminal Tab then change directory to `client` folder to this Command
     - npm i
     - npm run build
-    - npm start
+    - npm pmstart
     
 ######    to run the client you can  open browser and use this url
 
