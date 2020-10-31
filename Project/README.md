@@ -1,6 +1,6 @@
 # TO DO App
 
-This is a simple App for hosting, build using LoopBack 4 for back-end, and Next Js for front-end.
+This is a simple App for hosting, build using **LoopBack 4** for back-end, and **Next Js** for front-end.
 
 ### what is [LoopBack4](https://loopback.io/)
 LoopBack4 is a highly extensible, open-source Node.js and TypeScript framework based on Express, that enables you to quickly create APIs and microservices composed from backend systems such as databases and REST services "API".
