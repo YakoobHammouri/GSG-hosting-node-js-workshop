@@ -3,11 +3,11 @@
 This is a simple App for hosting, build using **LoopBack 4** for back-end, and **Next Js** for front-end.
 
 ### what is [LoopBack4](https://loopback.io/)
-LoopBack4 is a highly extensible, open-source Node.js and TypeScript framework based on Express, that enables you to quickly create APIs and microservices composed from backend systems such as databases and REST services "API".
+**LoopBack4** is a highly extensible, open-source Node.js and TypeScript framework based on Express, that enables you to quickly create APIs and microservices composed from backend systems such as databases and REST services "API".
 
 
 ### what is [NextJs](https://nextjs.org/)
-Next.js is a special JavaScript framework to build a modern React applications with a server-side rendering. based on that main feature it makes our life much easier by reducing page loading time and by having page-based routing system, not to mention its positive impact on SEO ranking.
+**Next.js** is a special JavaScript framework to build a modern React applications with a server-side rendering. based on that main feature it makes our life much easier by reducing page loading time and by having page-based routing system, not to mention its positive impact on SEO ranking.
 
 ### How To Run
 1. create DB and Add the url to your `.env` file
