@@ -19,13 +19,13 @@ This is a simple App for hosting, build using **LoopBack 4** for back-end, and *
    ``` 
    PORT=4000
    name=todo
-   connector=postgresql
-   url=postgres://username:password@localhost:port/database
+   connector=mysql
+   url=mysql://<user>:<pass>@<localhost>:<port>/<dbName>
    ```
 2. open terminal then change directory to `Project/api` folder to run this Command
     - npm i
     - npm run migrate
-    - npm start
+    - npm run pmstart
 ######    to run server in browser you can use the url provided in your terminal or  use this url
 
 ```
