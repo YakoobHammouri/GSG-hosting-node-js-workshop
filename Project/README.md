@@ -10,7 +10,7 @@ This is a simple App for hosting, build using **LoopBack 4** for back-end, and *
 **Next.js** is a special JavaScript framework to build a modern React applications with a server-side rendering. based on that main feature it makes our life much easier by reducing page loading time and by having page-based routing system, not to mention its positive impact on SEO ranking.
 
 ### How To Run
-1. create DB and Add the url to your `.env` file
+1. create DB and Add the url to your `.env` file in api folder 
      - create the database 
      - inside the api folder create a .env file 
      - add the PORT , name , connector ,and url as shown in the `.env.example` file.
@@ -31,6 +31,7 @@ This is a simple App for hosting, build using **LoopBack 4** for back-end, and *
 ```
      http://127.0.0.1:4000/explorer/
 ```
+
 3. open new terminal Tab then change directory to `client` folder to this Command
     - npm i
     - npm run build
