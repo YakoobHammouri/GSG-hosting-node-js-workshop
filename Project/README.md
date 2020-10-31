@@ -24,7 +24,6 @@ This is a simple App for hosting, build using **LoopBack 4** for back-end, and *
    ```
 2. open terminal then change directory to `Project/api` folder to run this Command
     - npm i
-    - npm run build
     - npm run migrate
     - npm start
 ######    to run server in browser you can use the url provided in your terminal or  use this url
